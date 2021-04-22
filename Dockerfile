@@ -1,4 +1,4 @@
-FROM adoptopenjdk/openjdk11:debian
+FROM adoptopenjdk/openjdk11:aarch64-debian-jdk-11.0.10_9
 
 ENV ZOOKEEPER_VERSION 3.4.13
 
